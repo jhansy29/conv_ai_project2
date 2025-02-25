@@ -1,0 +1,6 @@
+Original Text:
+I hate cold coffee
+
+Sentiment Score: -0.800000011920929
+Sentiment Magnitude: 0.800000011920929
+Sentiment Label: Negative

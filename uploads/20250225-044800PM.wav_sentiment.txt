@@ -1,0 +1,6 @@
+Original Text:
+I sort of like mocha
+
+Sentiment Score: 0.20000000298023224
+Sentiment Magnitude: 0.20000000298023224
+Sentiment Label: Neutral

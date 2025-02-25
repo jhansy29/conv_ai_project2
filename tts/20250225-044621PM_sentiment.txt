@@ -1,0 +1,7 @@
+Original Text:
+I like ice cream
+
+Sentiment Score: 0.8999999761581421
+Sentiment Magnitude: 0.8999999761581421
+Sentiment Label:
+Positive
